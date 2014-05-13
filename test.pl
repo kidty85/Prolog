@@ -1,0 +1,14 @@
+sommet([[rock,folk,jazz],[a,b,c,d,e,k,r]]).
+sommet([[rock,folk,blue,jazz],[b,a,c,d]]).
+sommet([[rock,folk,jazz],[c,a,b,d,g,i]]).
+sommet([[rock,folk,jazz],[d,a,b,c]]).
+sommet([[rock,folk,blue],[e,a,g,h]]).
+sommet([[rock,folk,jazz],[g,c,e,h]]).
+sommet([[rock,folk],[h,e,g]]).
+sommet([[rock],[k,a,p]]).
+sommet([[rock,folk],[i,c,n]]).
+sommet([[rock,folk,rap,blue],[n,i,o,p,j,r]]).
+sommet([[rock,folk,rap],[o,n,p,j,r]]).
+sommet([[rock,folk,rap,jazz],[p,k,n,o,j,r]]).
+sommet([[rock,folk,rap],[j,n,o,p,r]]).
+sommet([[rock,folk,rap,blue],[r,a,n,o,p,j]]).
